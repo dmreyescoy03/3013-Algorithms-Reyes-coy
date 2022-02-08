@@ -5,7 +5,8 @@
 ### even numbers are stored to the stack and odds are thrown out.
 ### it will never go bellow 10 and has thresh holds. uses command line.
 
-|#| Folder Links| Assignment Description|
-|2| P01| Array Based Stack|
+|   #   | Folder Links | Assignment Description |
+| :---: | ------------ | ---------------------- |
+|   2   | P01          | Array Based Stack      |
 
 ## Instructions: N/A.
