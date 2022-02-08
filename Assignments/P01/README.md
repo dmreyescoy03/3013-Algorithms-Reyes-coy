@@ -8,5 +8,6 @@
 |   #   | Folder Links                                                                                             | Assignment Description |
 | :---: | -------------------------------------------------------------------------------------------------------- | ---------------------- |
 |   2   | [main.cpp](https://github.com/dmreyescoy03/3013-Algorithms-Reyes-coy/blob/main/Assignments/P01/main.cpp) | Array Based Stack      |
+|       |                                                                                                          | output.dat             | output for code |
 
 ## Instructions: N/A.
