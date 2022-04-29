@@ -1,7 +1,7 @@
 /*****************************************************************************
 *                    
-*  Author:           Yoseph Helal
-*  Email:            tranvex@gmail.com
+*  Author:           David Reyes-coy
+*  Email:            dmreyescoy0318@my.msutexas.edu
 *  Label:            A03B
 *  Title:            Linked List Class
 *  Course:           CMPS 3013
