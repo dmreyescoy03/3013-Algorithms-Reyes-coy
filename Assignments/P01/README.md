@@ -7,6 +7,6 @@
 
 |   #   | Folder Links                                                                                                 | Assignment Description |
 | :---: | ------------------------------------------------------------------------------------------------------------ | ---------------------- |
-|   2   | [main.cpp](https://github.com/dmreyescoy03/3013-Algorithms-Reyes-coy/blob/main/Assignments/P01/main.cpp)     | Array Based Stack      |
-|  ->   | [output.dat](https://github.com/dmreyescoy03/3013-Algorithms-Reyes-coy/blob/main/Assignments/P01/output.dat) | output                 |
+|   1   | [main.cpp](https://github.com/dmreyescoy03/3013-Algorithms-Reyes-coy/blob/main/Assignments/P01/main.cpp)     | Array Based Stack      |
+|  2   | [output.dat](https://github.com/dmreyescoy03/3013-Algorithms-Reyes-coy/blob/main/Assignments/P01/output.dat) | output                 |
 ## Instructions: N/A.
